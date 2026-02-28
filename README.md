@@ -59,6 +59,8 @@ Accessibility considerations (ARIA labels, contrast)
 calculator/
 │
 └── index.html
+└──style.css
+└──script.js
 
 All styles and scripts are embedded for simplicity and portability.
 
